@@ -10,17 +10,15 @@
 
 ---
 
-<!-- SLIDING HEADER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=ANOLD%20OMAGWA&fontSize=35&fontAlignY=35&animation=twinkling" width="100%"/>
 </p>
 
 ## 🧠 About Me
 
-I'm a **Software Engineering student at Kirinyaga University** passionate about software development, artificial intelligence, machine learning and building practical technology.
+I'm a **Software Engineering student at Kirinyaga University** building my foundation toward a career in Artificial Intelligence and Machine Learning.
 
-I'm working toward becoming a **Machine Learning Engineer** while developing the skills required to design, build and deploy real-world software systems.
+My interests sit at the intersection of software engineering, AI, automation, and real-world problem solving. I enjoy taking an idea, understanding how it works, and turning it into something practical through code.
 
 * 🎓 Software Engineering student
 * 💻 Software development
@@ -33,8 +31,6 @@ I'm working toward becoming a **Machine Learning Engineer** while developing the
 
 ---
 
-<!-- SLIDING HEADER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=WHAT%20I'M%20BUILDING&fontSize=28&animation=twinkling" width="100%"/>
 </p>
@@ -43,26 +39,11 @@ I'm working toward becoming a **Machine Learning Engineer** while developing the
 
 ### 🤖 AI & Machine Learning
 
-Learning and building with:
-
-* Python
-* Machine Learning
-* Data Science
-* AI applications
-* Model development
-* Automation
-
-My goal is to move beyond simply using AI tools and understand how intelligent systems are actually built.
+Learning and building with Python, Machine Learning, Data Science, AI applications, model development and automation.
 
 ### 🌐 Web Applications
 
-Building websites and applications while improving my understanding of:
-
-* Frontend development
-* Backend development
-* APIs
-* Databases
-* Deployment
+Building websites and applications while improving my understanding of frontend development, backend development, APIs, databases and deployment.
 
 ### ⚡ Automation
 
@@ -73,8 +54,6 @@ Exploring how software can automate repetitive processes and solve real-world pr
 Exploring systematic trading concepts and how software can be used to analyze markets and automate rule-based strategies.
 
 ---
-
-<!-- SLIDING HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=TECH%20STACK&fontSize=28&animation=twinkling" width="100%"/>
@@ -102,8 +81,6 @@ Exploring systematic trading concepts and how software can be used to analyze ma
 
 ---
 
-<!-- SLIDING HEADER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=PROJECTS&fontSize=28&animation=twinkling" width="100%"/>
 </p>
@@ -129,8 +106,6 @@ A growing collection of projects as I progress through my machine-learning journ
 🚧 More projects coming.
 
 ---
-
-<!-- SLIDING HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ENGINEERING%20JOURNEY&fontSize=28&animation=twinkling" width="100%"/>
@@ -171,8 +146,6 @@ Build Real Products 🚀
 
 ---
 
-<!-- SLIDING HEADER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=GITHUB%20STATS&fontSize=28&animation=twinkling" width="100%"/>
 </p>
@@ -190,8 +163,6 @@ Build Real Products 🚀
 
 ---
 
-<!-- SLIDING HEADER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=CONTRIBUTIONS&fontSize=28&animation=twinkling" width="100%"/>
 </p>
@@ -203,8 +174,6 @@ Build Real Products 🚀
 </p>
 
 ---
-
-<!-- SLIDING HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=2026%20%E2%86%92%202027&fontSize=28&animation=twinkling" width="100%"/>
@@ -245,6 +214,18 @@ Build Real Products 🚀
 
 <a href="https://github.com/Anold-softsmake">
 <img src="https://img.shields.io/badge/GitHub-Anold--softsmake-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anold-omagwa-302595437/">
+<img src="https://img.shields.io/badge/LinkedIn-Anold%20Omagwa-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anoldonchangu34@gmail.com">
+<img src="https://img.shields.io/badge/Email-anoldonchangu34%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="tel:0716681597">
+<img src="https://img.shields.io/badge/Phone-0716681597-green?style=for-the-badge&logo=phone"/>
 </a>
 
 <a href="https://anold-softsmake.github.io/personal-website/">
