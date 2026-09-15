@@ -1,48 +1,86 @@
-## Hi there 👋
 # 👋 Hey, I'm Anold Omagwa Onchangu
 
-### 💻 Software Engineering Student | 🤖 AI/ML Engineer in Progress | 🚀 Builder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI%2FML+Engineer+in+Progress;Building+Software+That+Solves+Problems;Future+Machine+Learning+Engineer" />
+</p>
 
-I'm a Software Engineering student at **Kirinyaga University** passionate about building practical technology and continuously pushing my technical limits.
-
-I'm currently focused on **software engineering, artificial intelligence, machine learning, automation, and web development** — with the long-term goal of becoming a highly skilled **Machine Learning Engineer** and building products through my own venture, **Softs Make**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anold-softsmake&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
+
+<!-- SLIDING HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=ANOLD%20OMAGWA&fontSize=35&fontAlignY=35&animation=twinkling" width="100%"/>
+</p>
 
 ## 🧠 About Me
 
-* 🎓 Studying **Software Engineering** at Kirinyaga University
-* 🤖 Working toward becoming a **Machine Learning Engineer**
-* 💻 Building projects to strengthen my software engineering skills
-* 🌐 Interested in **AI, ML, automation, web technologies and systems**
-* 🛠️ Gained hands-on ICT/networking experience during my industrial attachment at **KIRDI**
-* 📈 Exploring algorithmic approaches to **financial markets and XAU/USD**
-* 🚀 Working toward building my own technology company — **Softs Make**
-* 🌍 Based in Kenya
+I'm a **Software Engineering student at Kirinyaga University** passionate about software development, artificial intelligence, machine learning and building practical technology.
+
+I'm working toward becoming a **Machine Learning Engineer** while developing the skills required to design, build and deploy real-world software systems.
+
+* 🎓 Software Engineering student
+* 💻 Software development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Web development
+* 🗄️ Database systems
+* 🌐 Networking & ICT
+* 📈 Trading systems & automation
+* 🚀 Building toward **Softs Make**
 
 ---
 
-## 🚀 What I'm Currently Working On
+<!-- SLIDING HEADER -->
 
-### 🤖 Artificial Intelligence & Machine Learning
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=WHAT%20I'M%20BUILDING&fontSize=28&animation=twinkling" width="100%"/>
+</p>
 
-Learning the foundations of AI/ML and exploring how intelligent systems can solve real-world problems.
+## 🚀 What I'm Building
 
-### 💻 Software Engineering
+### 🤖 AI & Machine Learning
 
-Strengthening my programming, algorithms, databases, system design and development skills by building practical projects.
+Learning and building with:
 
-### 🌐 Web Development
+* Python
+* Machine Learning
+* Data Science
+* AI applications
+* Model development
+* Automation
 
-Building and improving websites and web applications while learning better development practices.
+My goal is to move beyond simply using AI tools and understand how intelligent systems are actually built.
 
-### 📈 Trading & Automation
+### 🌐 Web Applications
 
-Exploring systematic approaches to financial markets and how software and automation can be applied to trading.
+Building websites and applications while improving my understanding of:
+
+* Frontend development
+* Backend development
+* APIs
+* Databases
+* Deployment
+
+### ⚡ Automation
+
+Exploring how software can automate repetitive processes and solve real-world problems.
+
+### 📈 Trading Technology
+
+Exploring systematic trading concepts and how software can be used to analyze markets and automate rule-based strategies.
 
 ---
 
-## 🛠️ Technologies & Tools
+<!-- SLIDING HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=TECH%20STACK&fontSize=28&animation=twinkling" width="100%"/>
+</p>
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -50,181 +88,177 @@ Exploring systematic approaches to financial markets and how software and automa
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
 </p>
 
-### Development
+### Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" />
 </p>
 
-### Exploring
+### Currently Exploring
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker" />
 </p>
 
-> My stack is continuously evolving as I learn and build.
-
 ---
 
-## 📌 Featured Projects
+<!-- SLIDING HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=PROJECTS&fontSize=28&animation=twinkling" width="100%"/>
+</p>
+
+## 📌 Projects
 
 ### 🌐 Personal Portfolio
 
-My personal website where I showcase who I am, what I'm learning and what I'm building.
+My personal developer portfolio.
 
-🔗 **[Visit My Portfolio](https://anold-softsmake.github.io/personal-website/)**
-
----
+🔗 **[Visit Portfolio](https://anold-softsmake.github.io/personal-website/)**
 
 ### 🚀 Softs Make
 
-**Softs Make** is my long-term vision for building software and technology products that solve real problems.
+My long-term vision for building software products and technology solutions.
 
-> *Building ideas into software.*
+> **Ideas → Software → Impact**
 
----
+### 🤖 AI / ML Projects
 
-### 🤖 AI & ML Projects
+A growing collection of projects as I progress through my machine-learning journey.
 
-I'm building projects while learning machine learning fundamentals, data processing, model development and practical AI applications.
-
-More projects coming soon. 🚧
+🚧 More projects coming.
 
 ---
 
-## 🧰 What I've Worked With
+<!-- SLIDING HEADER -->
 
-```text
-Software Development
-├── Programming
-├── Web Development
-├── Object-Oriented Programming
-├── Database Systems
-├── Operating Systems
-└── System Analysis & Design
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ENGINEERING%20JOURNEY&fontSize=28&animation=twinkling" width="100%"/>
+</p>
 
-Networking & ICT
-├── Network Configuration
-├── Switches & Routers
-├── Wireless Access Points
-├── Structured Cabling
-├── Servers
-└── Windows Administration
-
-Currently Exploring
-├── Artificial Intelligence
-├── Machine Learning
-├── Automation
-├── Data Science
-└── Algorithmic Trading
-```
-
----
-
-## 🎯 My Current Learning Path
+## 🧭 My Engineering Journey
 
 ```text
 Software Engineering
-        ↓
-Programming & Algorithms
-        ↓
-Data Structures
-        ↓
+        │
+        ▼
+Programming
+        │
+        ▼
+Data Structures & Algorithms
+        │
+        ▼
 Databases & Systems
-        ↓
-Python & Data Science
-        ↓
+        │
+        ▼
+Python
+        │
+        ▼
+Data Science
+        │
+        ▼
 Machine Learning
-        ↓
+        │
+        ▼
 Deep Learning
-        ↓
+        │
+        ▼
 AI Engineering
-        ↓
+        │
+        ▼
 Build Real Products 🚀
 ```
 
 ---
 
+<!-- SLIDING HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=GITHUB%20STATS&fontSize=28&animation=twinkling" width="100%"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anold-softsmake&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anold-softsmake&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
-
-## 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=Anold-softsmake&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 2026 → 2027 Goals
+<!-- SLIDING HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=CONTRIBUTIONS&fontSize=28&animation=twinkling" width="100%"/>
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anold-softsmake/Anold-softsmake/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- SLIDING HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=2026%20%E2%86%92%202027&fontSize=28&animation=twinkling" width="100%"/>
+</p>
+
+## 🎯 Goals
 
 * [ ] Become significantly stronger at software engineering
-* [ ] Build serious projects with Python
-* [ ] Master Git & GitHub workflows
-* [ ] Build my first meaningful ML projects
-* [ ] Learn data structures & algorithms deeply
-* [ ] Build and deploy AI-powered applications
-* [ ] Contribute to open-source projects
+* [ ] Master Python
+* [ ] Strengthen Data Structures & Algorithms
+* [ ] Build serious AI/ML projects
+* [ ] Learn deep learning
+* [ ] Build AI-powered applications
+* [ ] Contribute to open source
 * [ ] Build products under **Softs Make**
 * [ ] Develop a strong engineering portfolio
-* [ ] Become job-ready for AI/ML engineering opportunities
+* [ ] Become job-ready for AI/ML engineering
 
 ---
 
 ## ⚡ Beyond Code
 
-When I'm not coding:
-
 🏐 Volleyball
 🎬 Movies
-🧠 Learning new technologies
-💡 Thinking about products and business
-📈 Exploring financial markets
+🧠 Learning
+💡 Building ideas
+📈 Financial markets & technology
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
+
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://anold-softsmake.github.io/personal-website/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<p align="center">
+
+<a href="https://github.com/Anold-softsmake">
+<img src="https://img.shields.io/badge/GitHub-Anold--softsmake-black?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://anold-softsmake.github.io/personal-website/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
+
 </p>
 
 ---
 
-## 💭 Philosophy
+<p align="center">
 
-> **Don't just learn technology. Build with it.**
+### 🚀 Building. Learning. Improving.
 
-I'm documenting the journey from **Software Engineering student → Machine Learning Engineer → Technology Builder.**
+**Softs Make — Ideas into Software.**
 
-⭐ Feel free to explore my repositories and follow the journey.
-
----
-
-### 🚀 Building. Learning. Improving. Repeating.
-
-### **Softs Make — Ideas into Software.**
-
-
-<!--
-**Anold-softsmake/Anold-softsmake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
