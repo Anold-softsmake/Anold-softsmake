@@ -208,35 +208,32 @@ Build Real Products 🚀
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
 
-## 🌐 Connect With Me
+## 📫 Let's Connect
 
 <p align="center">
-
-<a href="https://github.com/Anold-softsmake">
-<img src="https://img.shields.io/badge/GitHub-Anold--softsmake-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anold-omagwa-302595437/">
-<img src="https://img.shields.io/badge/LinkedIn-Anold%20Omagwa-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:anoldonchangu34@gmail.com">
-<img src="https://img.shields.io/badge/Email-anoldonchangu34%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="tel:0716681597">
-<img src="https://img.shields.io/badge/Phone-0716681597-green?style=for-the-badge&logo=phone"/>
-</a>
-
-<a href="https://anold-softsmake.github.io/personal-website/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/anold-omagwa-302595437/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anold%20Omagwa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:anoldonchangu34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anoldonchangu34%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="tel:0716681597">
+    <img src="https://img.shields.io/badge/Phone-0716681597-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://anold-softsmake.github.io/personal-website/">
+    <img src="https://img.shields.io/badge/Portfolio-Softs%20Make-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
----
-
 <p align="center">
+  <b>📍 Kenya</b> &nbsp; • &nbsp;
+  <b>💻 Software Engineering</b> &nbsp; • &nbsp;
+  <b>🤖 AI / ML</b>
+</p>
+
 
 ### 🚀 Building. Learning. Improving.
 
