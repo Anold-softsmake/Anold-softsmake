@@ -91,7 +91,7 @@ Exploring systematic trading concepts and how software can be used to analyze ma
 
 My personal developer portfolio.
 
-🔗 **[Visit Portfolio](https://anold-softsmake.github.io/personal-website/)**
+🔗 **[Visit Portfolio](https://anold-softsmake.github.io/portfolio-website/)**
 
 ### 🚀 Softs Make
 
